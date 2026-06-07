@@ -31,7 +31,3 @@ matlab/           Input generation and result plotting
 2. Set top for sim: `Filter_ADC_DAC_tb`.
 3. Run ISim. Output: `sim/data/output_file.dat`.
 4. In MATLAB: `generate_input.m` then `analyze_output.m`.
-
-## Author
-
-Mohammed Ammar Al Hamadani
