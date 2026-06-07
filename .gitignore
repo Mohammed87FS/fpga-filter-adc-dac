@@ -1,0 +1,31 @@
+# Xilinx ISE / ISim
+isim/
+*.xise
+*.ncd
+*.ngc
+*.bit
+*.bgn
+*.dmp
+*.mrp
+*.par
+*.pcf
+*.ptwx
+*.unroutes
+*.xst
+*.prj
+*.log
+*.wdb
+*.wcfg
+*_pad.txt
+*.jou
+*.csv
+
+# MATLAB autosave
+*.asv
+
+# Simulation output
+sim/data/output_file.dat
+
+# OS
+Thumbs.db
+.DS_Store
